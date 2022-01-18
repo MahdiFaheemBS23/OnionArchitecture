@@ -1,0 +1,16 @@
+C:\Projects\OnionArchitecture\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Projects\OnionArchitecture\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.json
+C:\Projects\OnionArchitecture\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.dev.json
+C:\Projects\OnionArchitecture\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Projects\OnionArchitecture\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Projects\OnionArchitecture\Repository\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projects\OnionArchitecture\Repository\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projects\OnionArchitecture\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\Projects\OnionArchitecture\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\OnionArchitecture\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Projects\OnionArchitecture\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Projects\OnionArchitecture\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Projects\OnionArchitecture\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Projects\OnionArchitecture\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Projects\OnionArchitecture\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Projects\OnionArchitecture\Repository\obj\Debug\netcoreapp3.1\Repository.genruntimeconfig.cache

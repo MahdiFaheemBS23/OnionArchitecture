@@ -1,0 +1,10 @@
+C:\Projects\OnionArchitecture\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Projects\OnionArchitecture\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projects\OnionArchitecture\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projects\OnionArchitecture\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Projects\OnionArchitecture\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\OnionArchitecture\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Projects\OnionArchitecture\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Projects\OnionArchitecture\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Projects\OnionArchitecture\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Projects\OnionArchitecture\Data\obj\Debug\netcoreapp3.1\Data.pdb

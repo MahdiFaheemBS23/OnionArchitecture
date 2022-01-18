@@ -1,0 +1,15 @@
+C:\Projects\OnionArchitecture\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Projects\OnionArchitecture\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projects\OnionArchitecture\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projects\OnionArchitecture\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projects\OnionArchitecture\Service\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Projects\OnionArchitecture\Service\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Projects\OnionArchitecture\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projects\OnionArchitecture\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Projects\OnionArchitecture\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\OnionArchitecture\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Projects\OnionArchitecture\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Projects\OnionArchitecture\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Projects\OnionArchitecture\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Projects\OnionArchitecture\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Projects\OnionArchitecture\Service\obj\Debug\netcoreapp3.1\Service.pdb
