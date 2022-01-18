@@ -1,7 +1,7 @@
 ﻿@model PersonVM
 
 @{
-    ViewData["Title"] = "View";
+    ViewData["Title"] = "Delete";
 }
 
 <h1>View</h1>
@@ -37,7 +37,7 @@
         </dd>
     </dl>
     
-    <form asp-action="View">
+    <form asp-action="DeleteConfirm">
         <input type="hidden" asp-for="Id" />
         <input type="submit" value="Delete" class="btn btn-danger" /> |
         <a asp-action="Index">Back to List</a>

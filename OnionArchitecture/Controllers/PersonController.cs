@@ -104,6 +104,7 @@ namespace OnionArchitecture.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(PersonVM personVM)
         {
             var person = await _personService.GetPersonById(personVM.Id);
@@ -138,6 +139,20 @@ namespace OnionArchitecture.Controllers
                 DateOfBirth = person.DateOfBirth,
                 Address = person.Address
             }); ;
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirm(int id)
+        {
+            var person = await _personService.GetPersonById(id);
+
+            if (await _personService.RemovePerson(person) > 0)
+            {
+                return RedirectToAction("Index");
+            }
+
+            return View(person);
         }
     }
 }
